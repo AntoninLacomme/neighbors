@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">neighbors</string>
+    <string name="message_confirmation_suppresion">Voulez vous supprimer cette personne ?</string>
+    <string name="validate">Valider</string>
+    <string name="register">Enregistrer</string>
+    <string name="cancel">Annuler</string>
+    <string name="hint_image">Image</string>
+    <string name="hint_nom">Nom</string>
+    <string name="hint_telephone">Téléphone</string>
+    <string name="hint_website">Site Web</string>
+    <string name="hint_address">Adresse</string>
+    <string name="hint_props">A propos de moi...</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="title_list_neighbors">Liste des voisins</string>
+    <string name="title_add_neighbors">Nouveau voisin</string>
+    <string name="something_wad_drop">a été supprimé...</string>
+    <string name="err_inscription_image">Le lien de l\'image doit être une url valide (ex: https://www.expl.fr/ex.jpg)</string>
+    <string name="err_inscription_nom">Veuillez renseigner le nom de votre voisin</string>
+    <string name="err_inscription_telephone">Veuillez renseigner un nom de téléphone valide</string>
+    <string name="err_inscription_siteweb">Veuillez renseigner un site web valide (ex: https://www.expl.fr)</string>
+    <string name="err_inscription_adresse">Veuillez renseigner une adresse valide</string>
+    <string name="err_inscription_apropos">Ce champs doit contenir moins de 30 charactères</string>
+</resources>
